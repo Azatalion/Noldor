@@ -1,0 +1,66 @@
+input {
+	font-size: 20px;
+	border: 0;
+	margin: 1% 0;
+	border-radius:5px;
+	padding: 1% 1%;
+}
+.go {
+	background: #5F9EA0;
+	color: #fff;
+}	
+.go:hover {
+	background: #F0E68C;
+	border: 0;
+	color: #000;
+}	
+p {
+	color: #FFA500;
+	font-size: 27px;
+	margin: 0;
+	text-align: center;
+	width: 98%;
+	padding: 1% 1%;
+	margin: 0;
+	text-shadow: 5px 5px 6px red;
+}
+h1 {
+	text-align: center;
+	background: rgba(25, 25, 112, 0.5);
+	color: #fff;
+	height: 2%;
+	margin: 0%;
+	padding: 1% 1%;
+}
+h2 {
+	text-align: center;
+	color: #fff;
+	width: 98%;
+	margin: 0;
+	background: rgba(25, 25, 112, 0.5);
+	padding: 1% 1%;
+	font-size: 27px;
+}
+body {
+	background-image: url(bg.jpg);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin: 0;
+}
+table {
+	width: 100%;
+}
+form {
+	margin-top: 7%;
+	background: rgba(47, 79, 79, 0.5);
+	width: 50%;
+	margin-left: 25%;
+}
+.code {
+	background: rgba(0, 0, 0, 0.5);
+	width: 50%;
+	margin-left: 25%;
+	color: #fff;
+	font-size: 27px;
+	text-align: center;
+}
