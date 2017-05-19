@@ -1,0 +1,73 @@
+input {
+	font-size: 20px;
+	border: 0;
+	margin: 1% 0;
+	border-radius:5px;
+	padding: 1% 1%;
+}
+.enter {
+	width: 90%;
+}
+.go {
+	background: #CD853F;
+	color: #fff;
+}	
+.go:hover {
+	background: #3CB371;
+	border: 0;
+}	
+p {
+	color: #FFA500;
+	font-size: 27px;
+	margin: 0;
+	text-align: center;
+	width: 98%;
+	padding: 1% 1%;
+	margin: 0;
+	text-shadow: 5px 5px 6px red;
+}
+h1 {
+	text-align: center;
+	background: rgba(160, 82, 45, 0.7);
+	color: #fff;
+	height: 2%;
+	margin: 0%;
+	padding: 1% 1%;
+}
+h2 {
+	text-align: center;
+	color: #fff;
+	width: 98%;
+	margin: 0;
+	background: rgba(205, 133, 63, 0.7);
+	padding: 1% 1%;
+	font-size: 27px;
+	width: 100%;
+}
+body {
+	background-image: url(bg.jpg);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin: 0;
+}
+table {
+	width: 100%;
+	margin-top: 10%;
+}
+form {
+	margin-top: 7%;
+	background: rgba(255, 222, 173, 0.5);
+	width: 50%;
+	margin-left: 25%;
+}
+.code {
+	background: rgba(0, 0, 0, 0.7);
+	width: 50%;
+	margin-left: 25%;
+	color: #fff;
+	font-size: 27px;
+	text-align: center;
+}
+textarea {
+	border-radius: 5px;
+}
